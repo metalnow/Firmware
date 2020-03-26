@@ -31,6 +31,7 @@ px4_add_board(
 		#distance_sensor # all available distance sensor drivers
 		#distance_sensor/ll40ls
 		#distance_sensor/sf0x
+		distance_sensor/tfmini
 		gps
 		#heater
 		#imu/adis16448

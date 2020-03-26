@@ -1,6 +1,6 @@
 [submodule "mavlink/include/mavlink/v2.0"]
 	path = mavlink/include/mavlink/v2.0
-	url = https://github.com/mavlink/c_library_v2.git
+	url = https://github.com/metalnow/c_library_v2.git
 	branch = master
 [submodule "src/drivers/uavcan/libuavcan"]
 	path = src/drivers/uavcan/libuavcan
@@ -16,7 +16,7 @@
 	branch = px4
 [submodule "Tools/jMAVSim"]
 	path = Tools/jMAVSim
-	url = https://github.com/PX4/jMAVSim.git
+	url = https://github.com/metalnow/jMAVSim.git
 	branch = master
 [submodule "Tools/sitl_gazebo"]
 	path = Tools/sitl_gazebo
@@ -40,7 +40,7 @@
 	branch = px4
 [submodule "src/drivers/gps/devices"]
 	path = src/drivers/gps/devices
-	url = https://github.com/PX4/GpsDrivers.git
+	url = https://github.com/metalnow/GpsDrivers.git
 	branch = master
 [submodule "src/modules/micrortps_bridge/micro-CDR"]
 	path = src/modules/micrortps_bridge/micro-CDR
